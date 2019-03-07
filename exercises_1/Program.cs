@@ -739,17 +739,8 @@ namespace exercises_1
                 }
             }
 
-
-
-
         }
 
-    
-
-
-}
-
-
-
+    }
 
 }
